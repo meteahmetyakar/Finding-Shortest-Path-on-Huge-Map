@@ -1,0 +1,4 @@
+/**
+ * color enums
+ */
+package color;

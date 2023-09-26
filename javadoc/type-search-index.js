@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"datastructures","l":"MyGraph.Algorithm"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"color","l":"Color"},{"p":"test","l":"Main"},{"p":"datastructures","l":"MyGraph"},{"p":"datastructures","l":"MyMap"},{"p":"test","l":"TestCases"}];updateSearchResults();
